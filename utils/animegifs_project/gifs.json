@@ -1,18 +1,5 @@
 {
-  "attack": ["https://cdn.discordapp.com/attachments/994740238142414909/994742556954984529/attacc_1.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742557269569659/attacc_2.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742557626081440/attacc_3.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742558263607366/attacc_4.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742558532055171/attacc_5.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742558800486420/attacc_6.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742559442223165/attacc_7.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742559991681054/attacc_8.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742560327204875/attacc_9.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994742560968953916/attacc_10.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994746613887144046/attacc_11.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994746614344327269/attacc_12.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994746614856036473/attacc_13.gif",
-    "https://cdn.discordapp.com/attachments/994740238142414909/994746615384510494/attacc_14.gif"
+  "attack": [""
   ],
 
   "bite": ["https://cdn.discordapp.com/attachments/994747108265574430/994747507726876682/bite_1.gif",
