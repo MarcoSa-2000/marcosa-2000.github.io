@@ -312,7 +312,8 @@
   "https://cdn.discordapp.com/attachments/998703592879968316/998703829765853254/flirt_21.gif",
   "https://cdn.discordapp.com/attachments/998703592879968316/998703830118170644/flirt_22.gif",
   "https://cdn.discordapp.com/attachments/998703592879968316/998703830516650044/flirt_23.gif",
-  "https://cdn.discordapp.com/attachments/998703592879968316/998716961695465512/flirt_24.gif"
+  "https://cdn.discordapp.com/attachments/998703592879968316/998716961695465512/flirt_24.gif",
+  "https://cdn.discordapp.com/attachments/998703592879968316/1000133983499206727/flirt_25.gif"
   ],
 
   "handhold": ["https://cdn.discordapp.com/attachments/998750433394835456/998750512205807759/handhold_1.gif",
@@ -346,5 +347,45 @@
   "https://cdn.discordapp.com/attachments/998750433394835456/998750662693244939/handhold_29.gif",
   "https://cdn.discordapp.com/attachments/998750433394835456/998750663104274534/handhold_30.gif",
   "https://cdn.discordapp.com/attachments/998750433394835456/998750692695085196/handhold_31.gif"
+  ],
+
+  "happy": ["https://cdn.discordapp.com/attachments/1000126950976794624/1000127720186990702/happy_1.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127720530903060/happy_2.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127720849678427/happy_3.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127721143275520/happy_4.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127721462038558/happy_5.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127721776619670/happy_6.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127722632253561/happy_7.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127722967810168/happy_8.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127723282374776/happy_9.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127723823435866/happy_10.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127874772258826/happy_11.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127875221041152/happy_12.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127875619487784/happy_13.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127876177346732/happy_14.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127876567408731/happy_15.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127876953280553/happy_16.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127877360140389/happy_17.gif",
+  "https://cdn.discordapp.com/attachments/1000126950976794624/1000127877737611406/happy_18.gif"
+  ],
+
+  "harass": ["https://cdn.discordapp.com/attachments/1000134241063014421/1000137706359226508/harass_1.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137706749317130/harass_2.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137707076456578/harass_3.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137707432968252/harass_4.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137707739173025/harass_5.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137708041146408/harass_6.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137708506710076/harass_7.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137708838080553/harass_8.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137709257494589/harass_9.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137709693710516/harass_10.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137790928978030/harass_11.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137791289692391/harass_12.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137791608463520/harass_13.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137791927222422/harass_14.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137792292139138/harass_15.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137792715759716/harass_16.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137793193922771/harass_17.gif",
+  "https://cdn.discordapp.com/attachments/1000134241063014421/1000137793525264424/harass_18.gif"
   ]
 }
